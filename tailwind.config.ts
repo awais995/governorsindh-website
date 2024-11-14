@@ -13,6 +13,14 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      backgroundColor:{
+        "custom-blue": "#044e83",
+      },
+      fontFamily: {
+        roboto: ['Roboto', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif'],
+        baloobhai: ['Baloo Bhai 2', 'cursive'],
+      },
     },
   },
   plugins: [],
