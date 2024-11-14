@@ -5,7 +5,7 @@ function Navbar() {
     <header>
       <div className="fixed top-0 w-full">
 
-        <nav className=" flex justify-center gap-20  items-center font-roboto bg-custom-blue text-white h-20 ">
+        <nav className=" flex justify-around gap-20  items-center font-roboto bg-custom-blue text-white h-20 ">
             <div className=" -mb-20 ">
               <Image src="/Governor images/Governor-logo.png" alt="logo" height={100} width={100}/>
             </div>
